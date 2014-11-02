@@ -1,0 +1,11 @@
+.theiaPostSlider_adminPreview {
+  max-width: 600px;
+  padding: 8px;
+  border: 1px solid #ccc; }
+  .theiaPostSlider_adminPreview .theiaPostSlider_slides img {
+    float: left;
+    max-width: 50%;
+    height: auto;
+    margin: 0 8px 8px 0;
+    padding: 1px;
+    border: 1px solid #ccc; }
